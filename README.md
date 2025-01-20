@@ -27,5 +27,3 @@ Create a `.env` file in the root of the project with the following structure:
 
 REACT_APP_API_KEY=your_api_key_here
 REACT_APP_API_URL=your_api_url_here
-REACT_APP_SPREADSHEET_ID=your-spreadsheet-url-here
-REACT_APP_RANGE=your-range-here
